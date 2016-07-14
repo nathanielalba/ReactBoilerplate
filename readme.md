@@ -1,1 +1,1 @@
-React app that times things
+A basic React boilerplate with Hash routing.
